@@ -6,6 +6,5 @@ Algorithm_use python
 
 第三部分 关于python的接口实现和多态
 
-第四部分 继承和抽象
+第四部分 栈
 
-第五部分 栈
