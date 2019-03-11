@@ -8,3 +8,4 @@ Algorithm_use python
 
 第四部分 栈
 
+第五部分 对字符串乱序检查的三种实现
